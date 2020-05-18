@@ -14,8 +14,9 @@ categories: History
 |2016| <img src="https://user-images.githubusercontent.com/64881706/82165392-cc468200-98ef-11ea-850e-077871e1fcea.png" width="10%" height="10%"> Tmap 차량 연동 앱 |
 | 2014 ~ 2016 |  <img src="https://user-images.githubusercontent.com/64881706/82165206-1f6c0500-98ef-11ea-9c79-c53647884ac4.png" width="10%" height="5%"> 모바일 게임 프로젝트 |
 | 2013 ~ 2014 | <img src="https://user-images.githubusercontent.com/64881706/82165392-cc468200-98ef-11ea-850e-077871e1fcea.png" width="10%" height="10%"> Tmap 바이크, 차계부 앱 |
-| 2013 | <img src = "https://user-images.githubusercontent.com/64881706/82166429-5a703780-98f3-11ea-80cb-5add6d6d681d.png" width = "10%" height="10%"> SNS 서비스 앱 |
+| 2013 | <img src = "https://user-images.githubusercontent.com/64881706/82166429-5a703780-98f3-11ea-80cb-5add6d6d681d.png" width = "20%" height="20%"> SNS 서비스 앱 |
 | 2011 ~ 2013 | <img src="https://user-images.githubusercontent.com/64881706/82165392-cc468200-98ef-11ea-850e-077871e1fcea.png" width="10%" height="10%"> Tmap |
+| 2010 ~ 2011 | <img src ="https://user-images.githubusercontent.com/64881706/82166799-9061eb80-98f4-11ea-8912-20c72d270238.png" > 모바일 게임 |
 
 
 
