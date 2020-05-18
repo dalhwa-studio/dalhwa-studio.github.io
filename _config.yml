@@ -95,13 +95,13 @@ analytics:
 author:
   name             : "dalhwa"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "iOS, Unity, swift, c# , reactive programmer"
+  bio              : "independent developer. skills: iOS, Unity3d, SQL, Node.js, PHP, Reactive"
   location         : "seoul, south korea"
-  email            :
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:studio.dalhwa@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
