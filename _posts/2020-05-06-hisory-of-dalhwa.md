@@ -7,6 +7,6 @@ categories: History
 | Years | Project |
 | - | - |
 | 2020 | <img src="https://user-images.githubusercontent.com/64881706/82163721-cd73b100-98e7-11ea-9295-35e93432b37d.jpg" width = "50" height = "50"> AI 홈  |
-| 2019~2020 | <img src="https://user-images.githubusercontent.com/64881706/82164542-1b8ab380-98ec-11ea-90e7-d90b2b976971.png" width = "70%" height = "70%" >  2차 인증 보안 앱|
+| 2019~2020 | <img src="https://user-images.githubusercontent.com/64881706/82164542-1b8ab380-98ec-11ea-90e7-d90b2b976971.png" width = "30%" height = "30%" >  2차 인증 보안 앱|
 
 
