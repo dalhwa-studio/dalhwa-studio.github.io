@@ -8,5 +8,5 @@ categories: History
 
 | Years | Project |
 | - | - |
-| 2020 | ![Lotte](https://user-images.githubusercontent.com/64881706/82163721-cd73b100-98e7-11ea-9295-35e93432b37d.jpg)|
+| 2020 | ![Lotte](https://user-images.githubusercontent.com/64881706/82163721-cd73b100-98e7-11ea-9295-35e93432b37d.jpg = 100x100)|
 
