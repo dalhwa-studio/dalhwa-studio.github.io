@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "dalhwa"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "independent developer. skills: iOS, Unity3d, SQL, Node.js, PHP, Reactive"
+  bio              : "independent developer"
   location         : "seoul, south korea"
   email            : 
   links:
