@@ -1,5 +1,5 @@
 ---
-title: "History of dalhwa studio"
+title: "History"
 date: 2020-05-06 15:24:00
 categories: History
 ---
