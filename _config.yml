@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "dalhwa studio"
 title_separator          : "-"
-subtitle                 : "앱,웹,서버, 게임 개발합니다."# site tagline that appears below site title in masthead
+subtitle                 : "iOS, Unity3d 개발합니다."# site tagline that appears below site title in masthead
 name                     : "dalhwa studio"
 description              : "mobile app, web, server ,game development company"
 url                      : "https://dalhwa-studio.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -69,19 +69,19 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
-  username               :
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 : # Open Graph/Twitter default site image
+# twitter:
+#   username               :
+# facebook:
+#   username               :
+#   app_id                 :
+#   publisher              :
+# og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+# social:
+#   type                   : # Person or Organization (defaults to Person)
+#   name                   : # If the user or organization name differs from the site's name
+#   links: # An array of links to social media profiles
 
 # Analytics
 analytics:
