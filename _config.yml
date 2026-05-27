@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "dalhwa studio"
 title_separator          : "-"
-subtitle                 : "iOS, Unity3d 개발합니다."# site tagline that appears below site title in masthead
+subtitle                 : "Game Studio"# site tagline that appears below site title in masthead
 name                     : "dalhwa studio"
 description              : "mobile app, web, server ,game development company"
 url                      : "https://dalhwa-studio.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "dalhwa"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "independent developer"
+  bio              : "independent game developer"
   location         : "seoul, south korea"
   email            : 
   links:
