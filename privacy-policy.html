@@ -6,7 +6,7 @@
   <title>Privacy Policy</title>
   <style>
     :root{--bg:#f7f8fb;--card:#ffffff;--muted:#6b7280;--accent:#0f172a}
-    body{font-family:Inter, Roboto, system-ui, sans-serif;background:var(--bg);color:var(--accent);margin:0;padding:32px}
+    body{font-family:Inter, Roboto, "Apple SD Gothic Neo", "Noto Sans KR", sans-serif;background:var(--bg);color:var(--accent);margin:0;padding:32px}
     .wrap{max-width:900px;margin:0 auto}
     header{background:linear-gradient(90deg,#eef2ff,#fff);padding:28px;border-radius:12px;box-shadow:0 6px 18px rgba(12,15,30,0.06)}
     h1{margin:0;font-size:22px}
@@ -21,8 +21,7 @@
   <script>
     // === Settings ===
     const company_name = "Dalhwa Studio"; // Company name
-    const contact_email = "tachine.dalhwa@gmail.com"; // Contact email
-
+    const contact_email = "support@dalhwastudio.com"; // Contact email
     // === Auto replacement ===
     document.addEventListener('DOMContentLoaded', () => {
       document.body.innerHTML = document.body.innerHTML
@@ -39,7 +38,7 @@
         <div class="badge">Privacy Policy</div>
         <div style="flex:1">
           <h1>{{COMPANY_NAME}} Privacy Policy</h1>
-          <p class="lead">This Privacy Policy applies to all mobile games and applications provided by {{COMPANY_NAME}}. (Last updated: 2025-10-17)</p>
+          <p class="lead">This policy applies to all mobile games and applications provided by {{COMPANY_NAME}} (hereinafter "Company"). (Last updated: 2025-10-17)</p>
         </div>
       </div>
     </header>
@@ -47,13 +46,13 @@
     <section class="card">
       <h2>1. Scope of Application</h2>
       <p>
-        This Privacy Policy applies to all mobile games and applications (hereinafter "Services") provided by the Company. However, the types of personal information collected or the purposes of use may differ depending on the nature of each service. In such cases, we will provide separate notices or additional information within the respective app.
+        This Privacy Policy applies uniformly to all mobile games (hereinafter "Services") provided by the Company. However, the types of personal information collected or the purposes of use may differ depending on the characteristics of each service. In such cases, they will be specified through separate notices or additional guidance within the app.
       </p>
     </section>
 
     <section class="card">
-      <h2>2. Personal Information We Collect</h2>
-      <p>The Company may collect the following information for the purpose of providing and improving the Services, statistical analysis, and advertising:</p>
+      <h2>2. Personal Information Collected</h2>
+      <p>The Company may collect the following information for the purpose of providing and improving the Service, statistical analysis, and advertising:</p>
       <ul>
         <li><strong>Automatically Collected (Required):</strong> Advertising ID, Device Information (device model, OS version), Access logs, IP address, App version</li>
         <li><strong>Provided by User (Optional):</strong> Email address, Nickname</li>
@@ -61,4 +60,63 @@
     </section>
 
     <section class="card">
-      <h2>3. Purposes of Collection and Use</h
+      <h2>3. Purposes of Collection and Use</h2>
+      <ul>
+        <li>Service provision and user account management</li>
+        <li>Service improvement through usage statistics and analysis</li>
+        <li>Providing advertisements (including personalized ads) and analyzing ad performance</li>
+        <li>Responding to inquiries and providing customer support</li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>4. Provision and Entrustment to Third Parties</h2>
+      <p>
+        The Company does not provide personal information to external parties in principle. However, information may be provided or entrusted to third parties in the following cases:
+      </p>
+      <ul>
+        <li>Advertising Platforms: e.g., Google AdMob (personalized advertising and ad performance measurement)</li>
+        <li>Analytics Tools: e.g., Unity Analytics, Firebase Analytics (user behavior analysis and statistics)</li>
+      </ul>
+      <p>When providing or entrusting personal information to third parties, the Company will notify users of the purpose, recipient, items provided, and retention period through a separate notice.</p>
+    </section>
+
+    <section class="card">
+      <h2>5. Retention and Use Period of Personal Information</h2>
+      <p>
+        The Company will destroy the personal information without delay once the purpose of collection and use has been achieved. However, if retention is required under applicable laws, the information will be safely stored for the required period.
+      </p>
+    </section>
+
+    <section class="card">
+      <h2>6. User Rights</h2>
+      <p>
+        Users may request access, correction, deletion, or suspension of processing (withdrawal of consent) of their personal information at any time. To exercise these rights, please contact us using the information below.
+      </p>
+    </section>
+
+    <section class="card">
+      <h2>7. Privacy Officer and Contact Information</h2>
+      <p>
+        For any inquiries regarding personal information or requests for remedies, please contact us at the following:
+      </p>
+      <ul>
+        <li>Privacy Officer: {{COMPANY_NAME}} Privacy Manager</li>
+        <li>Email: <a href="mailto:{{CONTACT_EMAIL}}">{{CONTACT_EMAIL}}</a></li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>8. Notification of Changes</h2>
+      <p>
+        If this Privacy Policy is amended, the revised version will be posted on this page with the clear revision date.
+      </p>
+    </section>
+
+    <footer>
+      <p>This page is a template. Before actual deployment, please modify the retention periods, third-party lists, and entrustment details according to your actual business operations.</p>
+      <p>Modifying the <code>company_name</code> and <code>contact_email</code> values will automatically update the entire document.</p>
+    </footer>
+  </div>
+</body>
+</html>
